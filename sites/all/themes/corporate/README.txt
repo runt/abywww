@@ -1,4 +1,4 @@
-About Simple Corporate Theme
+About Simple Corporate Theme - modified by jr Abydos
 ====================
 Simple Corporate is a fixed width (980px) theme. The theme is not dependent on any 
 core theme. Its very light weight for fast loading with modern look.
