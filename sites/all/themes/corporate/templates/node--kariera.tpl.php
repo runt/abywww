@@ -87,7 +87,7 @@
       <?php endif; ?>
       <?php print render($title_suffix); ?>
   
-      <?php if ($display_submitted): ?>
+      <?php if ($display_submitted):  ?>
         <span class="submitted"><?php print $submitted; ?></span>
       <?php endif; ?>
 
