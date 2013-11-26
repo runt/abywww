@@ -96,6 +96,9 @@
   <?php endif; ?>
 
   <div class="content"<?php print $content_attributes; ?>>
+      <div id="banner">
+	  <?php print render($content['field_banner']); ?>
+      </div>
       <div id="ikonovyrozcestnik">
 	  <div class="horizontalnecentrovany">
 	      <div>
